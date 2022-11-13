@@ -23,3 +23,4 @@ Generate API key from : http://www.omdbapi.com/apikey.aspx
 - `axios`
 - `react-scripts`
 "# movieapp" 
+"# infomovie" 

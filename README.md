@@ -4,7 +4,7 @@
 
 [The Open Movie Database APIs](http://www.omdbapi.com/)
 
-Generate API key from : http://www.omdbapi.com/apikey.aspx
+Generate API key from : http://www.omdbapi.com/apikey/
 
 ### API Info
 
@@ -22,5 +22,4 @@ Generate API key from : http://www.omdbapi.com/apikey.aspx
 - `styled-components`
 - `axios`
 - `react-scripts`
-"# movieapp" 
-"# infomovie" 
+
